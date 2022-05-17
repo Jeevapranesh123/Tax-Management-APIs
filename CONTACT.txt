@@ -1,0 +1,22 @@
+Name: Jeeva Pranesh
+Phone Number: 8675737202
+Email Address:jpranesh@gmail.com
+LinkedIn Profile: https://www.linkedin.com/in/jeeva-pranesh-9829161b3/
+Github Profile: https://github.com/Jeevapranesh123/
+
+
+Intro:
+
+Hello guys, this is Jeeva Pranesh. I am enthusiastic backend engineer always looking to solve different backend and architectural problems.
+
+I always look to work at startups as i am an early stage entrepreneur aiming to build my own software company.
+
+I have previously interned with a Fintech Startup as a API engineer. I was working with FastAPI's for the last 6 months
+
+I have also interned with a EdTech startup as backend engineer in a Cloud Product. We were building state of the art Virtual Laboratories hosted in cloud for students
+
+I am a docker enthusiast always looking to work with Microservices.
+
+I am cybersecurity enthusiast with some hands of experience in ethical hacking. I am an active member of OWASP(Open Web Application Security Project) Student chapter of VITC(Vellore Institute of Technology, Chennai)
+
+Thats some brief about me. Looking forward to working with RedCarpet soon.
