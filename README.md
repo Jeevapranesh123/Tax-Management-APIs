@@ -17,4 +17,4 @@
 1. All the tests are located in tests folder in backend directory and
 2. The tests are run through pytest
 
-Thank you 
+The Project is still under development. For suggestions and feedback drop a mail to ```jpranesh14@gmail.com```
