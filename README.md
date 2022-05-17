@@ -1,5 +1,13 @@
 ### GST Tax Management API's
 
+### Stack
+1. FastAPI
+2. PostgreSQL
+3. JWT
+4. Docker
+5. Adminer
+
+
 #### Getting Started
 
 1. Download and Install docker and docker-compose to run the apis
